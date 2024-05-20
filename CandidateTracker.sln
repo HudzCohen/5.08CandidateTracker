@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandidateTracker.Web", "CandidateTracker.Web\CandidateTracker.Web.csproj", "{DD602CA3-55E6-4B43-B042-265F328D35CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandidateTracker.Data", "CandidateTracker.Data\CandidateTracker.Data.csproj", "{962C7A3F-A5C5-4987-81F4-1373644DE73C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD602CA3-55E6-4B43-B042-265F328D35CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD602CA3-55E6-4B43-B042-265F328D35CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD602CA3-55E6-4B43-B042-265F328D35CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD602CA3-55E6-4B43-B042-265F328D35CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{962C7A3F-A5C5-4987-81F4-1373644DE73C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962C7A3F-A5C5-4987-81F4-1373644DE73C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962C7A3F-A5C5-4987-81F4-1373644DE73C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962C7A3F-A5C5-4987-81F4-1373644DE73C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
